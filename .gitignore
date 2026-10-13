@@ -1,0 +1,31 @@
+# Visual Studio local state
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+
+# Generated build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+out/
+*.exe
+*.dll
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.ipch
+*.tlog/
+*.log
+*.recipe
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
